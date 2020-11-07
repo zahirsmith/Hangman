@@ -1,0 +1,10 @@
+#Proposal
+
+## What will likely be the title of your project? For now, just Hangman. Im still tying to think
+something more creative
+
+### Detail of the project. My project will allow a user input and output of hangman with the word being
+guessed each turn. 
+
+#### My project will create the hangman if letters are being guessed incorrectly. Since I'm still getting
+use to programming and python, I'll be using the PYGAME module Professor Rosen mentioned. 
